@@ -24,8 +24,6 @@ npm install
 npm start
 ```
 
-This will run the app on [http://localhost:3000](http://localhost:3000)
-
 ## Functionality
 - Added widgets to the dashboard using buttons.
 - Weather, News, and Stock widgets fetch and show real-time data.
